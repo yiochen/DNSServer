@@ -1,2 +1,6 @@
 Hi from Jeff
+<<<<<<< HEAD
 Hi from Jeff again
+=======
+Hi from Yiou
+>>>>>>> origin/master
